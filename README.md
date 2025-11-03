@@ -45,35 +45,7 @@ The application is deployed using **Amazon EC2** and integrates with **AWS S3** 
 
 ---
 
-## ⚙️ Automation and Deployment
 
-* Automated provisioning via **Docker Compose / AWS Elastic Beanstalk**
-* Secure CI/CD pipelines can be extended with **GitHub Actions** or **AWS CodePipeline**
-* Infrastructure configuration compatible with **Terraform** or **CloudFormation** templates
-
----
-
-## 📊 Alignment with Cloud Engineer – Cybersecurity Role
-
-| Requirement                               | Demonstrated In This Project                              |
-| ----------------------------------------- | --------------------------------------------------------- |
-| **Designing Secure Cloud Infrastructure** | Multi-tier AWS architecture using IAM, EC2, S3, RDS       |
-| **Identity and Access Management (IAM)**  | EC2 roles with least privilege permissions                |
-| **Automation & Scripting**                | Docker deployment; SDK-based automation                   |
-| **Monitoring & Compliance**               | S3 and RDS policies enforce encryption and access logging |
-| **Hybrid Development & Testing**          | Local + Cloud integration testing with mock S3 SDK        |
-| **Documentation & Collaboration**         | Clear architectural diagram and structured code           |
-
----
-
-## 📘 Future Enhancements
-
-* Integrate **Microsoft Azure equivalents (Blob Storage, SQL Database)** for multi-cloud support
-* Implement **Terraform IaC** for full environment automation
-* Add **Azure Key Vault / AWS Secrets Manager** for key and credential management
-* Expand to include **Defender for Cloud** and **SIEM integration**
-
----
 
 ## 📎 Author
 
