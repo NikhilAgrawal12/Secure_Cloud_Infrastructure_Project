@@ -57,7 +57,7 @@ The application is hosted on **Amazon EC2** and integrates with **AWS S3** and *
 
 **Nikhil Agrawal**
 
-Software & Cloud Engineer | Cybersecurity Enthusiast
+Software Engineer
 
 ---
 
